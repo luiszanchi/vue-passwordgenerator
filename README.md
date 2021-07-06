@@ -1,5 +1,8 @@
 # vue-passwordgenerator
 
+### Demo
+[Demo](./dist).
+
 ## Project setup
 ```
 npm install
